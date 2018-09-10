@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RaceRecorder", "RaceRecorder\RaceRecorder.vbproj", "{CC8C3405-2A40-409F-8D7A-33580E741C03}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "media", "media\media.vbproj", "{1B906202-ADC6-4F82-9813-854FB8FDDA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8C3405-2A40-409F-8D7A-33580E741C03}.Debug|x86.ActiveCfg = Debug|x86
+		{CC8C3405-2A40-409F-8D7A-33580E741C03}.Debug|x86.Build.0 = Debug|x86
+		{CC8C3405-2A40-409F-8D7A-33580E741C03}.Release|x86.ActiveCfg = Release|x86
+		{CC8C3405-2A40-409F-8D7A-33580E741C03}.Release|x86.Build.0 = Release|x86
+		{1B906202-ADC6-4F82-9813-854FB8FDDA04}.Debug|x86.ActiveCfg = Debug|x86
+		{1B906202-ADC6-4F82-9813-854FB8FDDA04}.Debug|x86.Build.0 = Debug|x86
+		{1B906202-ADC6-4F82-9813-854FB8FDDA04}.Release|x86.ActiveCfg = Release|x86
+		{1B906202-ADC6-4F82-9813-854FB8FDDA04}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
